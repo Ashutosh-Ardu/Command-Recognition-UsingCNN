@@ -13,6 +13,6 @@ In this project we identify commands using real time audio input and use this to
 - Run `python project.py`
 
 ## Demonstration Video
-[`Youtube`](https://www.youtube.com/watch?v=j6SwGo7qv20)
+<b>Youtube<b/>: https://www.youtube.com/watch?v=j6SwGo7qv20
 
 - `output.wav` is the real time input which was recorded by the project.
